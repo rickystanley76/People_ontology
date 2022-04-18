@@ -1,5 +1,5 @@
 # People_ontology
-An ontology about the people, their work, location, graduated from, what they work with.
+An ontology about the people, their work, location, graduated from, what they work with. The OWL file above can be downloaded and extended as per needeed.
 # Classess
 <img width="959" alt="classes" src="https://user-images.githubusercontent.com/1774630/163686168-bdc0cff9-fba3-4c0c-aefe-95b807af2dcb.PNG">
 # Knowledge_Graph
