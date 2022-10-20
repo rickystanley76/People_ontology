@@ -1,5 +1,5 @@
-﻿ID,Name,Loction,email,Business-Type
+﻿ID,Name,Location,email,Business-Type
 1,Neo4j,Stockholm,neo@neo4j.com,Private
-2,ABB,Västerås,1@abb.com,Private
-3,AFRY,,one@afry.com,
-4,MDU,Västerås,,Public
+2,ABB,Västerås,1@abb.com,Public
+3,AFRY,,one@afry.com,Public
+4,MDU,Västerås,,Government
